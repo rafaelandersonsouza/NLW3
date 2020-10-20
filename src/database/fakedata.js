@@ -12,13 +12,13 @@ module.exports = [
         ],
         instructions: "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
         opening_hours: "Horário de visitas: Das 8h até 18h",
-        open_on_weekends: "1",
+        open_on_weekends: "1"
     },
 
     {
         id: 2,
         lat: "-19.8998467",
-        lng:"-43.9931679",
+        lng:"-43.9941679",
         name: "Lar das meninas",
         description: "Promove o atendimento de crianças e adolescentes, sob medida de proteção Abrigo em Entidade, buscando auxiliá-los em seu desenvolvimento físico, psicopedagógico e emocional.",
         images: [
@@ -28,6 +28,6 @@ module.exports = [
         ],
         instructions: "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
         opening_hours: "Horário de visitas: Das 8h até 18h",
-        open_on_weekends: "0",
+        open_on_weekends: "0"
     },
 ]
